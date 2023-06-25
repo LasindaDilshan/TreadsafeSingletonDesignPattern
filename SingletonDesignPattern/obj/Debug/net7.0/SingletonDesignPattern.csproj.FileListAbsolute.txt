@@ -1,0 +1,15 @@
+/Users/santa/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net7.0/SingletonDesignPattern.csproj.AssemblyReference.cache
+/Users/santa/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net7.0/SingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santa/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net7.0/SingletonDesignPattern.AssemblyInfoInputs.cache
+/Users/santa/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net7.0/SingletonDesignPattern.AssemblyInfo.cs
+/Users/santa/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net7.0/SingletonDesignPattern.csproj.CoreCompileInputs.cache
+/Users/santa/Projects/SingletonDesignPattern/SingletonDesignPattern/bin/Debug/net7.0/SingletonDesignPattern
+/Users/santa/Projects/SingletonDesignPattern/SingletonDesignPattern/bin/Debug/net7.0/SingletonDesignPattern.deps.json
+/Users/santa/Projects/SingletonDesignPattern/SingletonDesignPattern/bin/Debug/net7.0/SingletonDesignPattern.runtimeconfig.json
+/Users/santa/Projects/SingletonDesignPattern/SingletonDesignPattern/bin/Debug/net7.0/SingletonDesignPattern.dll
+/Users/santa/Projects/SingletonDesignPattern/SingletonDesignPattern/bin/Debug/net7.0/SingletonDesignPattern.pdb
+/Users/santa/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net7.0/SingletonDesignPattern.dll
+/Users/santa/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net7.0/refint/SingletonDesignPattern.dll
+/Users/santa/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net7.0/SingletonDesignPattern.pdb
+/Users/santa/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net7.0/SingletonDesignPattern.genruntimeconfig.cache
+/Users/santa/Projects/SingletonDesignPattern/SingletonDesignPattern/obj/Debug/net7.0/ref/SingletonDesignPattern.dll
